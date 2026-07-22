@@ -1,0 +1,17 @@
+{
+  "name": "event-management-backend",
+  "version": "1.0.0",
+  "description": "Backend API for Event Management Portal - College Mini Project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "keywords": ["event-management", "express", "mini-project"],
+  "author": "",
+  "license": "ISC"
+}

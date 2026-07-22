@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "title": "Capture the Flag",
+    "description": "To Capture The Flag From such Categories like Web,Cryptography,OSINT,Steg and etc...",
+    "date": "2026-08-05",
+    "time": "10:00",
+    "location": "APJ LAB",
+    "category": "Technology",
+    "organizer": "Computer Science and Department",
+    "createdBy": 1,
+    "totalSeats": 50,
+    "createdAt": "2026-07-22T16:51:20.258Z"
+  }
+]

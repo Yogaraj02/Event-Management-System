@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Admin User",
+    "email": "admin@gmail.com",
+    "password": "admin123",
+    "role": "admin",
+    "phone": "9876543210",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "name": "Yoga",
+    "email": "yogaraj4757@gmail.com",
+    "password": "Yogaraj12345@@",
+    "role": "user",
+    "phone": "8807652122",
+    "createdAt": "2026-07-22T16:35:56.949Z"
+  }
+]
